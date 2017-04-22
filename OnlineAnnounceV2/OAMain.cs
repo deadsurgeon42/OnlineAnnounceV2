@@ -12,7 +12,7 @@ using TShockAPI.Hooks;
 
 namespace OnlineAnnounceV2
 {
-	[ApiVersion(2,0)]
+	[ApiVersion(2,1)]
 	public class OAMain : TerrariaPlugin
 	{
 		#region PluginInfo
